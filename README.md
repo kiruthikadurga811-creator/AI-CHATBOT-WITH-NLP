@@ -16,6 +16,8 @@ __Mentor__ : Neela Santhosh Kumar
 
 __Output__ :
 
+Website Link :  http://127.0.0.1:5000
+
 <img width="821" height="626" alt="Image" src="https://github.com/user-attachments/assets/4a0d063f-b050-4409-b9dc-bb004136c93c" />
 
 __PROJECT DESCRIPTION__:
@@ -55,10 +57,6 @@ __🧠 TECHNOLOGIES USED__:
 - Frontend: HTML, CSS, JavaScript.
 
 - Algorithm: TF-IDF & Cosine Similarity.
-
-__Wedsite Link__:
-
- http://127.0.0.1:5000
 
 __⚙️ WORKING OF THE SYSTEM (Short)__:
 
