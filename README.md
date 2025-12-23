@@ -12,6 +12,8 @@ __Domain Name__ : Python Programming.
 
 __Duration__ : 4 weeks
 
+__Internship Period__ : 18 December 2025 - 15 January 2026
+
 __Mentor__ : Neela Santhosh Kumar  
 
 __Output__ :
